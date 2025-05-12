@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Rick and Morty Character List</string>
+    <string name="error_generic">Generic error</string>
 </resources>
